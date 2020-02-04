@@ -1,0 +1,3 @@
+﻿  areatrinagulo.cpp
+C:\Users\gonza\source\repos\areatrinagulo\areatrinagulo\areatrinagulo.cpp(16,10): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+  areatrinagulo.vcxproj -> C:\Users\gonza\source\repos\areatrinagulo\Debug\areatrinagulo.exe
