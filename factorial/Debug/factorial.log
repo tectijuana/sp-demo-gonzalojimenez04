@@ -1,0 +1,3 @@
+﻿  factorial.cpp
+C:\Users\gonza\source\repos\factorial\factorial\factorial.cpp(16,15): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+  factorial.vcxproj -> C:\Users\gonza\source\repos\factorial\Debug\factorial.exe
